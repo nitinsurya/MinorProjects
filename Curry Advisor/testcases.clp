@@ -1,0 +1,5 @@
+(assert (ingredient (name "Tomato") (available "y")))
+(assert (ingredient (name "Potato") (available "y")))
+(assert (ingredient (name "Cucumber") (available "y")))
+(assert (ingredient (name "Eggs") (available "y")))
+(assert (appVars (name "cookTime") (val 30)))
